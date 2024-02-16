@@ -1,0 +1,1249 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31644467</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1531-6963</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in rheumatology</Title>
+                <ISOAbbreviation>Curr Opin Rheumatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Common and rare forms of vasculitis associated with Sjögren's syndrome.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/BOR.0000000000000668</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE OF REVIEW" NlmCategory="OBJECTIVE">Although uncommon, systemic vasculitis is one of the most severe extraglandular manifestations of primary Sjögren's syndrome (pSS) accounting for the increased morbidity and mortality of the disease. This review aims to describe major previous and recent reports regarding the clinical presentation, prognosis and treatment of systemic vasculitis associated with pSS.</AbstractText>
+                <AbstractText Label="RECENT FINDINGS" NlmCategory="RESULTS">Both older and recent pSS cohort studies performed over the past several and recent years, have clearly shown that cryoglobulinaemic vasculitis is the most frequent type of systemic vasculitis accompanying pSS. Antineutrophil cytoplasmic antibody-associated, large and medium vessel vasculitis are described only in sporadic cases. In addition to the overt clinical manifestations of cryoglobulinaemic vasculitis, type II cryoglobulinaemia, glomerulonephritis and purpura have been correlated with increased risk for B-cell non-Hodgkin lymphoma (NHL) in pSS.</AbstractText>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">pSS is characterized by autoreactive B and T-cell infiltrates around the epithelial structures of the affected organs, as well as, B-cell hyperreactivity. The latter, is attested by the increased production of autoantibodies, directed against many different organ and nonorgan self-antigens. Vasculitis is a significant and potentially life-threatening complication of the disease depending on the size, localization, histologic type and the pathogenetic mechanisms of the inflammatory process. The potentially irreversible tissue damage, as well as the increased risk for NHL development, prompts the need for early diagnosis and treatment of cryoglobulinaemic vasculitis in pSS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Argyropoulou</LastName>
+                    <ForeName>Ourania D</ForeName>
+                    <Initials>OD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathophysiology, School of Medicine, National and Kapodistrian University of Athens, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tzioufas</LastName>
+                    <ForeName>Athanasios G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Opin Rheumatol</MedlineTA>
+            <NlmUniqueID>9000851</NlmUniqueID>
+            <ISSNLinking>1040-8711</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31644467</ArticleId>
+            <ArticleId IdType="doi">10.1097/BOR.0000000000000668</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31642912</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1462-0332</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rheumatology (Oxford, England)</Title>
+                <ISOAbbreviation>Rheumatology (Oxford)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The quantitative assessment of interstitial lung disease with positron emission tomography scanning in systemic sclerosis patients.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">kez483</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/rheumatology/kez483</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The reversibility of interstitial lung disease (ILD) in SSc is difficult to assess by current diagnostic modalities and there is clinical need for imaging techniques that allow for treatment stratification and monitoring. 18F-Fluorodeoxyglucose (FDG) PET/CT scanning may be of interest for this purpose by detection of metabolic activity in lung tissue. This study aimed to investigate the potential role of 18F-FDG PET/CT scanning for the quantitative assessment of SSc-related active ILD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">18F-FDG PET/CT scans and high resolution CT scans of eight SSc patients, including five with ILD, were analysed. For comparison, reference groups were included: eight SLE patients and four primary Sjögren's syndrome (pSS) patients, all without ILD. A total of 22 regions of interest were drawn in each patient at apical, medial and dorsobasal lung levels. 18F-FDG uptake was measured as mean standardized uptake value (SUVmean) in each region of interest. Subsequently, basal/apical (B/A) and medial/apical (M/A) ratios were calculated at patient level (B/A-p and M/A-p) and at tissue level (B/A-t and M/A-t).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">SUVmean values in dorsobasal ROIs and B/A-p ratios were increased in SSc with ILD compared with SSc without ILD (P = 0.04 and P = 0.07, respectively), SLE (P = 0.003 and P = 0.002, respectively) and pSS (P = 0.03 and P = 0.02, respectively). Increased uptake in the dorsobasal lungs and increased B/A-t ratios corresponded to both ground glass and reticulation on high resolution CT.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Semi-quantitative assessment of 18F-FDG PET/CT is able to distinguish ILD from non-affected lung tissue in SSc, suggesting that it may be used as a new biomarker for SSc-ILD disease activity.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Rheumatology. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Peelen</LastName>
+                    <ForeName>Daphne M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, Amsterdam Rheumatology &amp; Immunology Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zwezerijnen</LastName>
+                    <ForeName>Ben G J C</ForeName>
+                    <Initials>BGJC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Nuclear Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nossent</LastName>
+                    <ForeName>Esther J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pulmonary Medicine and Amsterdam Cardiovascular Sciences, Amsterdam UMC, Vrije Universiteit, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meijboom</LastName>
+                    <ForeName>Lilian J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Nuclear Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoekstra</LastName>
+                    <ForeName>Otto S</ForeName>
+                    <Initials>OS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Nuclear Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van der Laken</LastName>
+                    <ForeName>Conny J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, Amsterdam Rheumatology &amp; Immunology Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Voskuyl</LastName>
+                    <ForeName>Alexandre E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, Amsterdam Rheumatology &amp; Immunology Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Rheumatology (Oxford)</MedlineTA>
+            <NlmUniqueID>100883501</NlmUniqueID>
+            <ISSNLinking>1462-0324</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+          18F-FDG PET/CT</Keyword>
+            <Keyword MajorTopicYN="N">Systemic sclerosis</Keyword>
+            <Keyword MajorTopicYN="N">interstitial lung disease</Keyword>
+            <Keyword MajorTopicYN="N">lung fibrosis</Keyword>
+            <Keyword MajorTopicYN="N">positron emission tomography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31642912</ArticleId>
+            <ArticleId IdType="pii">5603664</ArticleId>
+            <ArticleId IdType="doi">10.1093/rheumatology/kez483</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31635810</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1578-1860</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista clinica espanola</Title>
+                <ISOAbbreviation>Rev Clin Esp</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical ultrasonography in systemic autoimmune diseases.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0014-2565(19)30223-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.rce.2019.07.014</ELocationID>
+            <Abstract>
+                <AbstractText>Clinical ultrasonography should be considered a complementary examination that can change clinical practice, as well as a tool to add to the medical history. Systemic autoimmune diseases (SAD) can involve numerous structures and organs. Ultrasonography has broad applied utility in detecting complications such as the presence of free intraabdominal, pleural and pericardial fluid in polyserositis, left ventricular systolic dysfunction in myocarditis and deep vein thrombosis in antiphospholipid syndrome. Specifically for SAD, ultrasonography helps examine the salivary glands in Sjögren's syndrome, determines the presence of the halo sign in giant cell arteritis and the presence of tendon or joint inflammation, quantifies pulmonary hypertension in scleroderma and assesses the presence of interstitial pulmonary disease in dermatomyositis. Clinical ultrasonography performed by internists is therefore an extremely useful technique in the diagnosis and follow-up of patients with SAD.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier España, S.L.U. and Sociedad Española de Medicina Interna (SEMI). All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Serralta San Martín</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Servicio de Medicina Interna, Hospital Universitario Infanta Sofía, San Sebastián de los Reyes (Madrid), España. Electronic address: gonzaloserralta@mac.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canora Lebrato</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Servicio de Medicina Interna, Hospital Universitario de Fuenlabrada, Fuenlabrada (Madrid), España.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>en representación del Grupo de Trabajo de Ecografía Clínica y del Grupo de Trabajo de Enfermedades Autoinmunes Sistémicas de la Sociedad Española de Medicina Interna</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Ecografía clínica en las enfermedades autoinmunes sistémicas.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Spain</Country>
+            <MedlineTA>Rev Clin Esp</MedlineTA>
+            <NlmUniqueID>8608576</NlmUniqueID>
+            <ISSNLinking>0014-2565</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clinical ultrasonography</Keyword>
+            <Keyword MajorTopicYN="N">Ecografía clínica</Keyword>
+            <Keyword MajorTopicYN="N">Enfermedades autoinmunes sistémicas</Keyword>
+            <Keyword MajorTopicYN="N">Sjögren's syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Systemic autoimmune diseases</Keyword>
+            <Keyword MajorTopicYN="N">Síndrome de Sjögren</Keyword>
+            <Keyword MajorTopicYN="N">Vasculitis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31635810</ArticleId>
+            <ArticleId IdType="pii">S0014-2565(19)30223-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.rce.2019.07.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31634487</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-3304</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Survey of ophthalmology</Title>
+                <ISOAbbreviation>Surv Ophthalmol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Primary Sjögren's syndrome and the eye.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0039-6257(19)30283-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.survophthal.2019.10.004</ELocationID>
+            <Abstract>
+                <AbstractText>Primary Sjögren syndrome is an autoimmune disease that mainly affects exocrine glands such as the salivary and lacrimal glands. In addition, systemic involvement is common. Primary Sjögren syndrome is of particular interest to ophthalmologists as it constitutes an important differential diagnosis in conditions with dry eye disease. Also, ocular tests for more precisely diagnosing and monitoring primary Sjögren syndrome have become increasingly important, and new therapeutics for local and systemic treatment evolve as a result of increased understanding of immunological mechanisms and molecular pathways in the pathogenesis of primary Sjögren syndrome. We provide an update of interest to ophthalmologists regarding pathogenesis, diagnosis, investigative procedures, and treatment options.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bjordal</LastName>
+                    <ForeName>Oddbjørn</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Østfold Hospital, Grålum, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Norheim</LastName>
+                    <ForeName>Katrine Brække</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Immunology Unit, Department of Internal Medicine, Stavanger University Hospital, Stavanger, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rødahl</LastName>
+                    <ForeName>Eyvind</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ophthalmology, Haukeland University Hospital, Bergen, Norway; Department of Clinical Medicine, University of Bergen, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jonsson</LastName>
+                    <ForeName>Roland</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Broegelmann Research Laboratory, Department of Clinical Science, University of Bergen, Bergen, Norway; Department of Rheumatology, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Omdal</LastName>
+                    <ForeName>Roald</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Immunology Unit, Department of Internal Medicine, Stavanger University Hospital, Stavanger, Norway; Broegelmann Research Laboratory, Department of Clinical Science, University of Bergen, Bergen, Norway. Electronic address: roald.omdal@lyse.net.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Surv Ophthalmol</MedlineTA>
+            <NlmUniqueID>0404551</NlmUniqueID>
+            <ISSNLinking>0039-6257</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Primary Sjögren syndrome</Keyword>
+            <Keyword MajorTopicYN="N">dry eye disease</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">lacrimal gland</Keyword>
+            <Keyword MajorTopicYN="N">treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31634487</ArticleId>
+            <ArticleId IdType="pii">S0039-6257(19)30283-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.survophthal.2019.10.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31632334</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1664-2295</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in neurology</Title>
+                <ISOAbbreviation>Front Neurol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Muscular Tuberculosis: A New Case and a Review of the Literature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1031</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fneur.2019.01031</ELocationID>
+            <Abstract>
+                <AbstractText><b>Objective:</b> To investigate the clinical manifestations, underlying diseases, pathological features, and therapeutic responses in patients with muscular tuberculosis (MT), which is rare and often misdiagnosed in clinical practice. <b>Methods:</b> This study describes a rare MT case that was recently diagnosed in our department. Additionally, 18 other MT cases retrieved from the PubMed database from 2,000 to date are included in this study. The clinical manifestations, areas of residence, underlying diseases, laboratory test results, pathology results, and outcomes of the patients were recorded and analyzed. <b>Results:</b> The MT patients in this study included 13 males and six females with an average age of 34.58 years old. Eight patients were from Asia, and six patients were from Africa, accounting for the majority of patients, at 73.68%. Underlying diseases included flu-like illness in one patient; chronic kidney disease (CKD) in one patient; Sjögren's syndrome in one patient; systemic lupus erythematosus (SLE), lupus nephropathy, and deep vein thrombosis in one patient; and Alzheimer's disease (AD) and Paget's disease in one patient. Two patients had a previous history of tuberculosis, and two patients had contact with suspected tuberculosis patients. All patients presented chronic occult onset, with an average of 3 (1.75, 5) months. Six cases had local masses, and 13 cases had swelling as the main clinical manifestations. Twelve patients (63.2%) presented manifestations at single sites, and seven patients presented manifestations at multiple sites, including the thigh, calf, arm, chest wall, dorsal, psoas, gluteal, and forehead muscles. Of the 19 total patients, 13 (68.4%) reported pain, and only 8 (42.1%) patients presented tuberculosis symptoms. All patients received laboratory results associated with <i>Mycobacterium tuberculosis</i> infection. Fourteen (73.7%) of the 19 patients underwent skeletal muscle biopsy, where granulomatous inflammation was observed. Eighteen patients were treated with anti-tuberculosis therapies. Sixteen patients improved or recovered after anti-tuberculosis treatment, and unfortunately, two patients died. <b>Conclusion:</b> As a kind of systemic disease, MT is mainly characterized by painful or painless muscle masses and swelling at a single site or at multiple sites. Patients with a history of tuberculosis and immune system disease are susceptible to MT. A diagnosis is mainly made on the basis of the results of pathological biopsy and bacteriological culture. Early diagnosis and timely standardized anti-tuberculosis treatment can improve the prognosis.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Zeng, Liu, Xie, Liang, Kuang, Lu and Zhou.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Yanping</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Renmin Hospital, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Renmin Hospital, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Yanchun</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Renmin Hospital, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Jingjing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Renmin Hospital, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuang</LastName>
+                    <ForeName>Jiabing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthopedic, Wuhan Fourth Hospital, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Zuneng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Renmin Hospital, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Yu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Renmin Hospital, Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Neurol</MedlineTA>
+            <NlmUniqueID>101546899</NlmUniqueID>
+            <ISSNLinking>1664-2295</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biopsy</Keyword>
+            <Keyword MajorTopicYN="N">muscle</Keyword>
+            <Keyword MajorTopicYN="N">muscular tuberculosis</Keyword>
+            <Keyword MajorTopicYN="N">pathology</Keyword>
+            <Keyword MajorTopicYN="N">tuberculosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31632334</ArticleId>
+            <ArticleId IdType="doi">10.3389/fneur.2019.01031</ArticleId>
+            <ArticleId IdType="pmc">PMC6779781</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31631415</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2796</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of internal medicine</Title>
+                <ISOAbbreviation>J. Intern. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interplay of anti-SSA/SSB status and hypertension in determining cardiovascular risk in primary Sjögren's syndrome.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/joim.12988</ELocationID>
+            <Abstract>
+                <AbstractText>We read with great interest the recently published study by Mofors et al. showing an increased risk of cardiovascular disease (CVD) in patients with primary Sjögren's syndrome (pSS) [1]. These results confirm the data we observed some years ago in a similarly large cohort of pSS subjects [2]. In Mofors' study, the highest CV risk appears to be globally associated with the presence of circulating anti-SSA/SSB autoantibodies, that characterize a subset of younger patients, not only with clinical and serological markers of autoimmunity, but also with more diffuse disease and more severe outcome.</AbstractText>
+                <CopyrightInformation>© 2019 The Association for the Publication of the Journal of Internal Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bartoloni</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-4776-2136</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Medicine, University of Perugia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baldini</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical and Experimental Medicine, University of Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Vita</LastName>
+                    <ForeName>Salvatore</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Clinic, Udine University Hospital, Department of Medical Area, University of Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Priori</LastName>
+                    <ForeName>Roberta</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Sapienza University, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giacomelli</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Department of Biotechnological and Applied Clinical Sciences, University of L'Aquila, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bini</LastName>
+                    <ForeName>Vittorio</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine, Endocrinal and Metabolic Science, University of Perugia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerli</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Medicine, University of Perugia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016422">Letter</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Intern Med</MedlineTA>
+            <NlmUniqueID>8904841</NlmUniqueID>
+            <ISSNLinking>0954-6820</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31631415</ArticleId>
+            <ArticleId IdType="doi">10.1111/joim.12988</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31622314</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0030-9982</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>69</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JPMA. The Journal of the Pakistan Medical Association</Title>
+                <ISOAbbreviation>J Pak Med Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Recurrent aseptic meningitis: A rare clinical presentation of Sjogren's syndrome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1547-1549</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Sjogren's syndrome most commonly presents with dry eyes, dry mouth, joint pain and fatigue. However, recurrent aseptic meningitis, reported as the most uncommon initial symptom, was the presenting feature in our case. We present the case of a 19-year-old female with recurrent episodes of aseptic meningitis. She presented with fever, headache, vomiting and photophobia. Neurological examination showed neck stiffness. Fundoscopy was normal. On two previous occasions her cerebrospinal fluid analysis was consistent with meningitis; however, it was normal at this presentation. Review of system revealed history of fatigue and sicca symptoms since early childhood. Autoimmune workup showed antinuclear antibodies with a titer of 1:400 and positive anti SSA (Ro) antibodies that led to the diagnosis of Sjogren's syndrome. She responded well to intravenous steroids, followed by oral prednisolone and hydroxychloroquine. To conclude, diagnosis of Sjogren's syndrome may also be considered in a patient presenting with recurrent aseptic meningitis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Basheer</LastName>
+                    <ForeName>Asma</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Shifa International Hospital, Islamabad, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Ejaz Ahmed</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Shifa International Hospital, Islamabad.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hashmi</LastName>
+                    <ForeName>Tahir</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, Shifa International Hospital, Islamabad, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Rashid Ali</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Emergency Medicine, Shifa International Hospital, Islamabad, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmad</LastName>
+                    <ForeName>Arsalan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Shifa International Hospital, Islamabad, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Pakistan</Country>
+            <MedlineTA>J Pak Med Assoc</MedlineTA>
+            <NlmUniqueID>7501162</NlmUniqueID>
+            <ISSNLinking>0030-9982</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Aseptic meningitis, Keratoconjunctivitis sicca, Sjogren's syndrome. doi:10.5455/JPMA.295727
+</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31622314</ArticleId>
+            <ArticleId IdType="pii">9346</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31618794</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2796</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of internal medicine</Title>
+                <ISOAbbreviation>J. Intern. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Weight of Salivary-Gland Ultrasonography compared to Other items of the 2016 ACR/EULAR Classification Criteria for Primary Sjögren's Syndrome.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/joim.12992</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Major Salivary gland ultrasonography (SGUS) is widely used for the diagnosis of primary Sjögren's syndrome (pSS). Our objective was to assess the contribution of SGUS compared to other items of the 2016 ACR/EULAR pSS classification criteria, based on expert opinion.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A secure web-based relational database was used by 24 experts from 14 countries to assess 512 realistic vignettes developed from data of patients with suspected pSS. Each vignette provided classification criteria items and information on history, clinical symptoms, and SGUS findings. Each expert assessed 64 vignettes and each vignette was assessed by 3 experts. A diagnosis of pSS was defined according to at least 2 of 3 experts. Validation was performed in the independent French DiapSS cohort of patients with suspected pSS.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A criteria-based pSS diagnosis and SGUS findings were independently associated with an expert diagnosis of pSS (p&lt;0.001) The derived diagnostic weights of individual items in the 2016 ACR/EULAR criteria including SGUS were : anti-SSA, 3; focus score ≥1, 3; SGUS score ≥2, 1; positive Schirmer's test, 1; dry mouth, 1; and salivary flow rate &lt;0.1 mL/min, 1. The corrected C statistic area under the curve for the new weighted score was 0.96.Adding SGUS improve the sensitivity from 90.2 % to 95.6% with a quite similar specificity 84.1% versus 82.6%. Results were similar in the DiapSS cohort: adding SGUS improve the sensitivity from 87% to 93%.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">SGUS had similar weight compared to minor items and its addition improves the performance of the 2016 ACR/EULAR classification criteria.</AbstractText>
+                <CopyrightInformation>© 2019 The Association for the Publication of the Journal of Internal Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jousse-Joulin</LastName>
+                    <ForeName>Sandrine</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology department, Cavale Blanche Hospital and Brest Occidentale University, INSERM UMR 1227, Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gatineau</LastName>
+                    <ForeName>Florence</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM CIC 1412, Brest Medical University Hospital, Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baldini</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology unit, University of Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baer</LastName>
+                    <ForeName>Alan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine (Rheumatology), Johns Hopkins University School of Medicine, Baltimore, MD, 21224, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barone</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Research Group, Institute of Inflammation and Ageing, University of Birmingham, Birmingham, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bootsma</LastName>
+                    <ForeName>Hendrika</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Clinical Immunology, University of Groningen, University Medical Centre Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bowman</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, University Hospitals, Birmingham NHS Trust, Birmingham, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brito-Zerón</LastName>
+                    <ForeName>Pilar</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Autoimmune Diseases Unit, Department of Medicine, Hospital CIMA- Sanitas, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cornec</LastName>
+                    <ForeName>Divi</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology department, Cavale Blanche Hospital and Brest Occidentale University, INSERM UMR 1227, Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorner</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Rheumatology and Clinical Immunology, Charite Universitätsmedizin Berlin and DRFZ, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Vita</LastName>
+                    <ForeName>Salvatore</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Rheumatology, Department of Medical and Biological Sciences, University Hospital &quot;Santa Maria della Misericordia&quot;, Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fisher</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Research Group, Institute of Inflammation and Ageing, University of Birmingham, Birmingham, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammenfors</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, Haukeland University Hospital, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Science - Section for Rheumatology, University of Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jonsson</LastName>
+                    <ForeName>Malin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Dentistry - Section for Oral and Maxillofacial Radiology, University of Bergen, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mariette</LastName>
+                    <ForeName>Xavier</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Immunology of Viral Infections and Autoimmune Diseases, Assistance Publique, Hôpitaux de Paris, Hôpitaux Universitaires Paris-Sud, Le Kremlin-Bicêtre, Université Paris Sud, INSERM, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milic</LastName>
+                    <ForeName>Vera</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Rheumatology, School of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Hideki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology and Rheumatology, Unit of Advanced Medical Sciences, Division of Advanced Preventive Medical Sciences, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki City, Nagasaki, 852-8501, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Wan-Fai</ForeName>
+                    <Initials>WF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular Medicine, Newcastle University &amp; NIHR Newcastle Biomedical Research Centre, Newcastle upon Tyne, NE2 4HH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nowak</LastName>
+                    <ForeName>Emmanuel</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM CIC 1412, Brest Medical University Hospital, Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramos-Casals</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Autoimmune Diseases Unit, Department of Medicine, Hospital CIMA- Sanitas, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasmussen</LastName>
+                    <ForeName>Astrid</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, Oklahoma, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seror</LastName>
+                    <ForeName>Raphaele</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Immunology of Viral Infections and Autoimmune Diseases, Assistance Publique, Hôpitaux de Paris, Hôpitaux Universitaires Paris-Sud, Le Kremlin-Bicêtre, Université Paris Sud, INSERM, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shiboski</LastName>
+                    <ForeName>Caroline H</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orofacial Sciences, School of Dentistry, University of California, San Francisco, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology and Cancer Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, 852-8588, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vissink</LastName>
+                    <ForeName>Arjan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Centre Groningen, Groningen, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saraux</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology department, Cavale Blanche Hospital and Brest Occidentale University, INSERM UMR 1227, Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Devauchelle-Pensec</LastName>
+                    <ForeName>Valerie</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology department, Cavale Blanche Hospital and Brest Occidentale University, INSERM UMR 1227, Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>EULAR US-pSS Task Force</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Intern Med</MedlineTA>
+            <NlmUniqueID>8904841</NlmUniqueID>
+            <ISSNLinking>0954-6820</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Classification criteria</Keyword>
+            <Keyword MajorTopicYN="N">Diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">Primary Sjögren</Keyword>
+            <Keyword MajorTopicYN="N">Salivary glands</Keyword>
+            <Keyword MajorTopicYN="N">Ultrasonography</Keyword>
+            <Keyword MajorTopicYN="N">s syndrome</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31618794</ArticleId>
+            <ArticleId IdType="doi">10.1111/joim.12992</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

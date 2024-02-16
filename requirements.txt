@@ -1,0 +1,9 @@
+pytest
+pylint
+pandas
+spacy
+country_converter
+rapidfuzz
+boto3
+python-dotenv
+pandarallel
